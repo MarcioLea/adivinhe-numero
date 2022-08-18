@@ -3,7 +3,7 @@
 https://developer.mozilla.org/en-US/
 
 ### Jogar
-- Digite um número aleatório entre 1 e 100 e clique em enviar palpite, você tem 10 tentativas para adivinhar o número:
+Digite um número aleatório entre 1 e 100 e clique em enviar palpite, você tem 10 tentativas para adivinhar o número:
 https://marciolea.github.io/adivinhe-numero/
 
 Dica: se o palpite foi muito baixo digite um número mais alto, se for alto digite mais baixo.
